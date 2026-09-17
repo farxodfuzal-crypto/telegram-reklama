@@ -1,6 +1,6 @@
 # Ruxsatli Telegram e'lon boti
 
-Bu loyiha **faqat o'zingiz boshqaradigan yoki yozma ruxsat olgan guruhlarga** e'lon yuborish uchun mustaqil botdir. U begona guruhlarni qidirish, ikki foydalanuvchi akkauntini navbatlab ishlatish yoki spam-filtrlarni chetlab o'tishni qilmaydi.
+Bu loyiha **faqat guruhlarga** e'lon yuborish uchun mustaqil botdir. 
 
 ## O'rnatish
 
