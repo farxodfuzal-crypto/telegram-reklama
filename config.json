@@ -1,0 +1,7 @@
+{
+  "bot_token": "PASTE_BOTFATHER_TOKEN_HERE",
+  "admin_user_ids": [123456789],
+  "default_message": "{Salom|Assalomu alaykum}! Bizning xizmatlarimiz haqida ma'lumot olish uchun bizga yozing.",
+  "min_delay_seconds": 30,
+  "max_delay_seconds": 120
+}

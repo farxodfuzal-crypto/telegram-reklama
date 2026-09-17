@@ -1,0 +1,7 @@
+{
+  "delivery_bot": {
+    "daily_limit": 10,
+    "messages_sent_today": 0,
+    "last_reset_date": "2026-09-16"
+  }
+}
